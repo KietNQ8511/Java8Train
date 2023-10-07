@@ -1,7 +1,6 @@
 package lambda__expressions;
 
 public class LambdaExpressions {
-<<<<<<< HEAD
 	/**
 	 * lampda expression basically expresses an instance of the functional interface, 
 	 * in other words, you can say it provides a clear and concise way to represent a method of the functional interface using expression
@@ -57,8 +56,3 @@ interface FuncInterface {
 
 
 // Performs FuncInter1's operation on 'a' and 'b'
-
-=======
-	
-}
->>>>>>> 0481cd6 (first commit)
